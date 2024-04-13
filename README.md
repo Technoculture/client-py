@@ -25,7 +25,7 @@ The `develop` branch should be on recent freezes, and the `feature/latest-ci` br
 Installation
 ------------
 
-    pip install fhirclient
+    pip install git+https://github.com/Technoculture/client-py
 
 
 Documentation
